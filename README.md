@@ -2,6 +2,10 @@
 Jogo de damas contra um IA
 
 Para jogar:
+
+
+
+
 -Rode o programa 
 
 

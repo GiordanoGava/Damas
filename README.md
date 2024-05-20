@@ -6,6 +6,11 @@ Para jogar:
 
 
 
+- Instalar Python no sistema e executar o comando pip install pygame no terminal do pc
+
+
+
+
 -Rode o programa 
 
 
